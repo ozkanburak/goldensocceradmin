@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "693008612915",
+    "project_id": "bahisyeni-1c9ee",
+    "storage_bucket": "bahisyeni-1c9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693008612915:android:5ef973caf01042d0692d46",
+        "android_client_info": {
+          "package_name": "com.burbur.bettings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693008612915-tm6jalg7g3ogi66btf6s3snj41197au0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15WFL1uEq_Qlk55PAMHXUkjD6IfGxBzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693008612915-tm6jalg7g3ogi66btf6s3snj41197au0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693008612915-p4igg42akpb7n7v8sg2r8rk4sjhplqap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.burbur.bettings"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693008612915:android:7612abf8336d536b692d46",
+        "android_client_info": {
+          "package_name": "com.burbur.bettings2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693008612915-tm6jalg7g3ogi66btf6s3snj41197au0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD15WFL1uEq_Qlk55PAMHXUkjD6IfGxBzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693008612915-tm6jalg7g3ogi66btf6s3snj41197au0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693008612915-p4igg42akpb7n7v8sg2r8rk4sjhplqap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.burbur.bettings"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
